@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/gennaroferrara/gym-tracker.git/static/js/main.81fd6bef.js",
+    "static/js/732.783bc47a.chunk.js": "/gennaroferrara/gym-tracker.git/static/js/732.783bc47a.chunk.js",
+    "static/js/21.2888ab24.js": "/gennaroferrara/gym-tracker.git/static/js/21.2888ab24.js",
+    "favicon.ico": "/gennaroferrara/gym-tracker.git/favicon.ico",
+    "index.html": "/gennaroferrara/gym-tracker.git/index.html",
+    "favicon-32.png": "/gennaroferrara/gym-tracker.git/favicon-32.png",
+    "favicon-16.png": "/gennaroferrara/gym-tracker.git/favicon-16.png",
+    "manifest.json": "/gennaroferrara/gym-tracker.git/manifest.json",
+    "serve.json": "/gennaroferrara/gym-tracker.git/serve.json",
+    "main.81fd6bef.js.map": "/gennaroferrara/gym-tracker.git/static/js/main.81fd6bef.js.map",
+    "732.783bc47a.chunk.js.map": "/gennaroferrara/gym-tracker.git/static/js/732.783bc47a.chunk.js.map",
+    "21.2888ab24.js.map": "/gennaroferrara/gym-tracker.git/static/js/21.2888ab24.js.map"
+  },
+  "entrypoints": [
+    "static/js/21.2888ab24.js",
+    "static/js/main.81fd6bef.js"
+  ]
+}
