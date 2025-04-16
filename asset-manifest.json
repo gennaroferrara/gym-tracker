@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/gennaroferrara/gym-tracker.git/static/js/main.81fd6bef.js",
+    "main.js": "/gennaroferrara/gym-tracker.git/static/js/main.6b4f1f28.js",
     "static/js/732.783bc47a.chunk.js": "/gennaroferrara/gym-tracker.git/static/js/732.783bc47a.chunk.js",
     "static/js/21.2888ab24.js": "/gennaroferrara/gym-tracker.git/static/js/21.2888ab24.js",
     "favicon.ico": "/gennaroferrara/gym-tracker.git/favicon.ico",
@@ -9,12 +9,12 @@
     "favicon-16.png": "/gennaroferrara/gym-tracker.git/favicon-16.png",
     "manifest.json": "/gennaroferrara/gym-tracker.git/manifest.json",
     "serve.json": "/gennaroferrara/gym-tracker.git/serve.json",
-    "main.81fd6bef.js.map": "/gennaroferrara/gym-tracker.git/static/js/main.81fd6bef.js.map",
+    "main.6b4f1f28.js.map": "/gennaroferrara/gym-tracker.git/static/js/main.6b4f1f28.js.map",
     "732.783bc47a.chunk.js.map": "/gennaroferrara/gym-tracker.git/static/js/732.783bc47a.chunk.js.map",
     "21.2888ab24.js.map": "/gennaroferrara/gym-tracker.git/static/js/21.2888ab24.js.map"
   },
   "entrypoints": [
     "static/js/21.2888ab24.js",
-    "static/js/main.81fd6bef.js"
+    "static/js/main.6b4f1f28.js"
   ]
 }
