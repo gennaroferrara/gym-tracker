@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/gym-tracker/static/js/main.d50f2e07.js",
+    "main.js": "/gym-tracker/static/js/main.03ce7112.js",
     "static/js/732.783bc47a.chunk.js": "/gym-tracker/static/js/732.783bc47a.chunk.js",
-    "static/js/460.8f88dcd6.js": "/gym-tracker/static/js/460.8f88dcd6.js",
+    "static/js/729.178a0af4.js": "/gym-tracker/static/js/729.178a0af4.js",
     "static/media/MaterialCommunityIcons.ttf": "/gym-tracker/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "favicon.ico": "/gym-tracker/favicon.ico",
     "index.html": "/gym-tracker/index.html",
@@ -10,12 +10,12 @@
     "favicon-16.png": "/gym-tracker/favicon-16.png",
     "manifest.json": "/gym-tracker/manifest.json",
     "serve.json": "/gym-tracker/serve.json",
-    "main.d50f2e07.js.map": "/gym-tracker/static/js/main.d50f2e07.js.map",
+    "main.03ce7112.js.map": "/gym-tracker/static/js/main.03ce7112.js.map",
     "732.783bc47a.chunk.js.map": "/gym-tracker/static/js/732.783bc47a.chunk.js.map",
-    "460.8f88dcd6.js.map": "/gym-tracker/static/js/460.8f88dcd6.js.map"
+    "729.178a0af4.js.map": "/gym-tracker/static/js/729.178a0af4.js.map"
   },
   "entrypoints": [
-    "static/js/460.8f88dcd6.js",
-    "static/js/main.d50f2e07.js"
+    "static/js/729.178a0af4.js",
+    "static/js/main.03ce7112.js"
   ]
 }
